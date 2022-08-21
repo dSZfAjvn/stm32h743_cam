@@ -295,7 +295,7 @@ class mainGUI:
                         s_b.close()
                         
                         buffer=b''
-                        print('3')
+                        # print('3')
 
                     # print(ch,end='')
                     # self.OutputText.insert(tk.END,ch)
